@@ -23,6 +23,7 @@ Software Engineering Day1 Assignment
       -Testing: Identify and fix bugs
       -Deployment: release the software users.
       -Maintenance: Provide updates, bug fixes, and feature enhancements.
+      
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
   Waterfall and Agile are two different ways of developing software. Waterfall follows a sequential, step-by-step approach. This requires that each phase (e.g., planning, design, development, testing, provisioning, etc.) be completed before changing to the next stage. In contrast, Agile is an iterative and flexible approach, with cycles (sprints) of development with continuous improvement and updates.
   One of the main differences is how we handle requirements. Starting requirements are set in the waterfall model and it is not easy to meet the changes. However, Agile adapts requirements based on feedback over time. This means that you are more adaptable to changing needs.
